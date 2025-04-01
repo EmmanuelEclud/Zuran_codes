@@ -20,14 +20,6 @@ To run this script, you need to have the `qrcode` library installed. If you don�
 pip install qrcode[pil]
 ```
 
-## ▶️ Usage
-
-Simply run the script with Python:
-
-```bash
-python script.py
-```
-
 After executing it, you will find the `qrcode.png` image in the same folder as the script.
 
 ## 🎯 Notes
