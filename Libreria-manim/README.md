@@ -45,7 +45,7 @@ Av =
 
 ## Archivos del proyecto
 
-### `V1_Matplotlib.py`
+### `V3C0.py`
 Visualización estática utilizando **Matplotlib**.
 
 Muestra:
@@ -99,14 +99,18 @@ pip install numpy matplotlib manim
 Ejecutar normalmente con Python:
 
 ```bash
-python V1_Matplotlib.py
+python V3C0.py
 ```
 
 ---
 
 ### Manim
-Para generar el video animado ejecutar:
+Ejecutar normalmente con Python:
 
+```bash
+python V3C1.py
+```
+Para generar el video animado tras ejecutar:
 ```bash
 manim -pql V3C1.py TransformacionLineal
 ```
